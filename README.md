@@ -50,9 +50,9 @@ const jude = {
 
 ## 📊 GitHub Stats
 
-![Jude's GitHub Stats](https://github-stats-extended-frontend-coral-ten.vercel.app/api?username=jais380&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark&v=1)
+![Jude's GitHub Stats](https://github-stats-extended.vercel.app/api?username=jais380&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark&v=1)
 
-![Top Languages](https://github-stats-extended-frontend-coral-ten.vercel.app/api/top-langs/?username=jais380&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c12&title_color=60a5fa&text_color=94a3b8&v=1)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=jais380&layout=compact&theme=github_dark&v=1)
 
 ---
 
