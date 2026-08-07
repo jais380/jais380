@@ -50,11 +50,7 @@ const jude = {
 
 ## 📊 GitHub Stats
 
-<<<<<<< HEAD
-![Jude's GitHub Stats](https://github-stats-extended.vercel.app/api?username=jais380&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c12&title_color=60a5fa&text_color=94a3b8&icon_color=3b82f6)
-=======
 ![Jude's GitHub Stats](https://github-stats-extended.vercel.app/api?username=jais380&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark)
->>>>>>> 75f3aed1e51e470bdae767705f05bc302f1d77e1
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jais380&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c12&title_color=60a5fa&text_color=94a3b8)
 
